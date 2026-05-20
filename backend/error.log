@@ -1,0 +1,623 @@
+[15-May-2026 00:56:43 Europe/Moscow] 🔍 Routing: method=PUT, path=/profile
+[15-May-2026 00:56:45 Europe/Moscow] 🔍 Routing: method=GET, path=/notifications
+[15-May-2026 00:56:45 Europe/Moscow] 🔍 Routing: method=GET, path=/auth/me
+[15-May-2026 00:56:55 Europe/Moscow] 🔍 Routing: method=PUT, path=/profile
+[15-May-2026 00:56:56 Europe/Moscow] 🔍 Routing: method=GET, path=/notifications
+[15-May-2026 00:56:56 Europe/Moscow] 🔍 Routing: method=GET, path=/auth/me
+[15-May-2026 00:57:00 Europe/Moscow] 🔍 Routing: method=GET, path=/notifications
+[15-May-2026 00:57:00 Europe/Moscow] 🔍 Routing: method=GET, path=/auth/me
+[15-May-2026 00:57:06 Europe/Moscow] 🔍 Routing: method=PUT, path=/profile
+[15-May-2026 00:57:07 Europe/Moscow] 🔍 Routing: method=GET, path=/notifications
+[15-May-2026 00:57:07 Europe/Moscow] 🔍 Routing: method=GET, path=/auth/me
+[15-May-2026 00:57:21 Europe/Moscow] 🔍 Routing: method=GET, path=/notifications
+[15-May-2026 00:57:21 Europe/Moscow] 🔍 Routing: method=GET, path=/auth/me
+[15-May-2026 00:57:21 Europe/Moscow] 🔍 Routing: method=GET, path=/user/certificates
+[15-May-2026 00:57:24 Europe/Moscow] 🔍 Routing: method=GET, path=/notifications
+[15-May-2026 00:57:24 Europe/Moscow] 🔍 Routing: method=GET, path=/auth/me
+[15-May-2026 00:58:48 Europe/Moscow] 🔍 Routing: method=GET, path=/notifications
+[15-May-2026 00:58:48 Europe/Moscow] 🔍 Routing: method=GET, path=/auth/me
+[15-May-2026 00:58:48 Europe/Moscow] 🔍 Routing: method=GET, path=/user/certificates
+[15-May-2026 00:58:55 Europe/Moscow] 🔍 Routing: method=GET, path=/notifications
+[15-May-2026 00:58:55 Europe/Moscow] 🔍 Routing: method=GET, path=/auth/me
+[15-May-2026 00:59:07 Europe/Moscow] 🔍 Routing: method=GET, path=/courses
+[15-May-2026 00:59:07 Europe/Moscow] ✅ Matched GET /courses
+[15-May-2026 07:29:51 Europe/Moscow] 🔍 Routing: method=GET, path=/notifications
+[15-May-2026 07:29:51 Europe/Moscow] 🔍 Routing: method=GET, path=/courses
+[15-May-2026 07:29:51 Europe/Moscow] ✅ Matched GET /courses
+[15-May-2026 07:29:51 Europe/Moscow] 🔍 Routing: method=GET, path=/auth/me
+[15-May-2026 07:57:11 Europe/Moscow] 🔍 Routing: method=GET, path=/notifications
+[15-May-2026 07:57:11 Europe/Moscow] 🔍 Routing: method=GET, path=/auth/me
+[15-May-2026 07:57:11 Europe/Moscow] 🔍 Routing: method=GET, path=/courses
+[15-May-2026 07:57:11 Europe/Moscow] ✅ Matched GET /courses
+[15-May-2026 08:04:42 Europe/Moscow] 🔍 Routing: method=GET, path=/courses/28
+[15-May-2026 08:04:42 Europe/Moscow] 🔍 Routing: method=GET, path=/user/wishlist
+[15-May-2026 08:04:44 Europe/Moscow] 🔍 Routing: method=POST, path=/courses/28/enroll
+[15-May-2026 08:04:44 Europe/Moscow] 🔍 Routing: method=GET, path=/courses/28/structure
+[15-May-2026 08:04:44 Europe/Moscow] 🔍 Routing: method=GET, path=/lessons/390
+[15-May-2026 08:04:44 Europe/Moscow] 🎯 GET /lessons/390
+[15-May-2026 08:04:44 Europe/Moscow] ✅ Lesson loaded: Введение
+[15-May-2026 08:04:44 Europe/Moscow] 🔍 Routing: method=GET, path=/courses/28/structure
+[15-May-2026 08:05:22 Europe/Moscow] 🔍 Routing: method=GET, path=/courses
+[15-May-2026 08:05:22 Europe/Moscow] ✅ Matched GET /courses
+[15-May-2026 08:11:14 Europe/Moscow] 🔍 Routing: method=GET, path=/courses
+[15-May-2026 08:11:14 Europe/Moscow] ✅ Matched GET /courses
+[15-May-2026 08:11:22 Europe/Moscow] 🔍 Routing: method=GET, path=/courses
+[15-May-2026 08:11:22 Europe/Moscow] ✅ Matched GET /courses
+[15-May-2026 08:11:27 Europe/Moscow] 🔍 Routing: method=GET, path=/user/enrollments
+[15-May-2026 08:11:27 Europe/Moscow] 🔍 Routing: method=GET, path=/user/wishlist
+[15-May-2026 08:11:27 Europe/Moscow] 🔍 Routing: method=GET, path=/courses
+[15-May-2026 08:11:27 Europe/Moscow] ✅ Matched GET /courses
+[15-May-2026 08:11:53 Europe/Moscow] 🔍 Routing: method=GET, path=/teacher/courses
+[15-May-2026 08:11:53 Europe/Moscow] ✅ Found 2 courses for teacher 1
+[15-May-2026 08:12:14 Europe/Moscow] 🔍 Routing: method=POST, path=/courses
+[15-May-2026 08:12:14 Europe/Moscow] 🔍 Routing: method=GET, path=/teacher/courses
+[15-May-2026 08:12:14 Europe/Moscow] ✅ Found 3 courses for teacher 1
+[15-May-2026 08:12:17 Europe/Moscow] 🔍 Routing: method=GET, path=/courses/41
+[15-May-2026 08:18:05 Europe/Moscow] 🔍 Routing: method=POST, path=/courses/41/modules
+[15-May-2026 08:18:33 Europe/Moscow] 🔍 Routing: method=POST, path=/modules/40/lessons
+[15-May-2026 08:18:33 Europe/Moscow] 🔍 Routing: method=GET, path=/courses/41
+[15-May-2026 08:18:58 Europe/Moscow] 🔍 Routing: method=POST, path=/modules/40/lessons
+[15-May-2026 08:18:58 Europe/Moscow] 🔍 Routing: method=GET, path=/courses/41
+[15-May-2026 08:19:14 Europe/Moscow] 🔍 Routing: method=POST, path=/courses/41/modules
+[15-May-2026 08:20:44 Europe/Moscow] 🔍 Routing: method=POST, path=/modules/41/lessons
+[15-May-2026 08:20:44 Europe/Moscow] 🔍 Routing: method=GET, path=/courses/41
+[15-May-2026 08:20:44 Europe/Moscow] 🔍 Routing: method=POST, path=/lessons/402/quiz
+[15-May-2026 08:20:44 Europe/Moscow] Create quiz question error: SQLSTATE[HY093]: Invalid parameter number
+[15-May-2026 08:21:16 Europe/Moscow] 🔍 Routing: method=GET, path=/lessons/402/quiz
+[15-May-2026 08:21:43 Europe/Moscow] 🔍 Routing: method=PUT, path=/courses/41
+[15-May-2026 08:21:45 Europe/Moscow] 🔍 Routing: method=PUT, path=/courses/41
+[15-May-2026 08:21:54 Europe/Moscow] 🔍 Routing: method=GET, path=/teacher/courses
+[15-May-2026 08:21:54 Europe/Moscow] ✅ Found 3 courses for teacher 1
+[15-May-2026 08:21:58 Europe/Moscow] 🔍 Routing: method=GET, path=/courses
+[15-May-2026 08:21:58 Europe/Moscow] ✅ Matched GET /courses
+[15-May-2026 08:22:00 Europe/Moscow] 🔍 Routing: method=POST, path=/auth/login
+[15-May-2026 08:22:01 Europe/Moscow] 🔍 Routing: method=GET, path=/notifications
+[15-May-2026 08:22:01 Europe/Moscow] 🔍 Routing: method=GET, path=/auth/me
+[15-May-2026 08:22:01 Europe/Moscow] 🔍 Routing: method=GET, path=/courses
+[15-May-2026 08:22:01 Europe/Moscow] ✅ Matched GET /courses
+[15-May-2026 08:22:06 Europe/Moscow] 🔍 Routing: method=GET, path=/notifications
+[15-May-2026 08:22:06 Europe/Moscow] 🔍 Routing: method=GET, path=/auth/me
+[15-May-2026 08:22:06 Europe/Moscow] 🔍 Routing: method=GET, path=/courses
+[15-May-2026 08:22:06 Europe/Moscow] ✅ Matched GET /courses
+[15-May-2026 08:22:09 Europe/Moscow] 🔍 Routing: method=GET, path=/notifications
+[15-May-2026 08:22:09 Europe/Moscow] 🔍 Routing: method=GET, path=/courses
+[15-May-2026 08:22:09 Europe/Moscow] ✅ Matched GET /courses
+[15-May-2026 08:22:09 Europe/Moscow] 🔍 Routing: method=GET, path=/auth/me
+[15-May-2026 08:22:32 Europe/Moscow] 🔍 Routing: method=GET, path=/notifications
+[15-May-2026 08:22:32 Europe/Moscow] 🔍 Routing: method=GET, path=/auth/me
+[15-May-2026 08:22:33 Europe/Moscow] 🔍 Routing: method=GET, path=/notifications
+[15-May-2026 08:22:33 Europe/Moscow] 🔍 Routing: method=GET, path=/auth/me
+[15-May-2026 08:22:33 Europe/Moscow] 🔍 Routing: method=GET, path=/user/certificates
+[15-May-2026 08:23:26 Europe/Moscow] 🔍 Routing: method=GET, path=/teacher/courses
+[15-May-2026 08:23:26 Europe/Moscow] ✅ Found 3 courses for teacher 1
+[15-May-2026 08:23:27 Europe/Moscow] 🔍 Routing: method=GET, path=/courses/41
+[15-May-2026 08:25:40 Europe/Moscow] 🔍 Routing: method=PUT, path=/courses/41
+[15-May-2026 08:26:02 Europe/Moscow] 🔍 Routing: method=GET, path=/lessons/402/quiz
+[15-May-2026 08:26:25 Europe/Moscow] 🔍 Routing: method=GET, path=/lessons/402/quiz
+[15-May-2026 08:27:01 Europe/Moscow] 🔍 Routing: method=PUT, path=/lessons/402
+[15-May-2026 08:27:01 Europe/Moscow] 🔍 Routing: method=GET, path=/courses/41
+[15-May-2026 08:27:01 Europe/Moscow] 🔍 Routing: method=POST, path=/lessons/402/quiz
+[15-May-2026 08:27:01 Europe/Moscow] Create quiz question error: SQLSTATE[HY093]: Invalid parameter number
+[15-May-2026 08:29:10 Europe/Moscow] 🔍 Routing: method=PUT, path=/lessons/402
+[15-May-2026 08:29:10 Europe/Moscow] 🔍 Routing: method=GET, path=/courses/41
+[15-May-2026 08:29:10 Europe/Moscow] 🔍 Routing: method=POST, path=/lessons/402/quiz
+[15-May-2026 08:29:10 Europe/Moscow] === QUIZ CREATE DEBUG START ===
+[15-May-2026 08:29:10 Europe/Moscow] User: 1, Lesson: 402
+[15-May-2026 08:29:10 Europe/Moscow] Raw body: {"question":"\u041a\u0430\u043a\u0438\u0435 \u0438\u0437 \u044d\u0442\u0438\u0445 \u043f\u0435\u0440\u0435\u043c\u0435\u043d\u043d\u044b\u0445 \u043d\u0430\u0437\u0432\u0430\u043d\u044b \u043a\u043e\u0440\u0440\u0435\u043a\u0442\u043d\u043e \u0432 Python?","options":["my_var","2nd_place","_hidden","class"],"correct_answer":"[0,2]","sort_order":0}
+[15-May-2026 08:29:10 Europe/Moscow] Parsed: question='Какие из этих переменных названы корректно в Python?', options=["my_var","2nd_place","_hidden","class"], correct="[0,2]"
+[15-May-2026 08:29:10 Europe/Moscow] Serialized: correct='["[0,2]"]', options='["my_var","2nd_place","_hidden","class"]'
+[15-May-2026 08:29:10 Europe/Moscow] Table columns: id, lesson_id, question, options, correct_answer
+[15-May-2026 08:29:10 Europe/Moscow] Attempting INSERT...
+[15-May-2026 08:29:10 Europe/Moscow] SQL: INSERT INTO quiz_answers (lesson_id, question, options, correct_answer) 
+                VALUES (?, ?, ?, ?) 
+                ON DUPLICATE KEY UPDATE question=?, options=?, correct_answer=?
+[15-May-2026 08:29:10 Europe/Moscow] Params: [402,"\u041a\u0430\u043a\u0438\u0435 \u0438\u0437 \u044d\u0442\u0438\u0445 \u043f\u0435\u0440\u0435\u043c\u0435\u043d\u043d\u044b\u0445 \u043d\u0430\u0437\u0432\u0430\u043d\u044b \u043a\u043e\u0440\u0440\u0435\u043a\u0442\u043d\u043e \u0432 Python?","[\"my_var\",\"2nd_place\",\"_hidden\",\"class\"]","[\"[0,2]\"]","\u041a\u0430\u043a\u0438\u0435 \u0438\u0437 \u044d\u0442\u0438\u0445 \u043f\u0435\u0440\u0435\u043c\u0435\u043d\u043d\u044b\u0445 \u043d\u0430\u0437\u0432\u0430\u043d\u044b \u043a\u043e\u0440\u0440\u0435\u043a\u0442\u043d\u043e \u0432 Python?","[\"my_var\",\"2nd_place\",\"_hidden\",\"class\"]","[\"[0,2]\"]"]
+[15-May-2026 08:29:10 Europe/Moscow] ✅ INSERT successful. Last ID: 5
+[15-May-2026 08:29:10 Europe/Moscow] PHP Notice:  ob_end_clean(): Failed to delete buffer. No buffer to delete in C:\Users\EvaRiss_\Downloads\Cursor\backend\index.php on line 979
+[15-May-2026 08:29:13 Europe/Moscow] 🔍 Routing: method=GET, path=/lessons/402/quiz
+[15-May-2026 08:29:20 Europe/Moscow] 🔍 Routing: method=PUT, path=/lessons/402
+[15-May-2026 08:29:20 Europe/Moscow] 🔍 Routing: method=GET, path=/courses/41
+[15-May-2026 08:29:20 Europe/Moscow] 🔍 Routing: method=PUT, path=/quiz/5
+[15-May-2026 08:30:04 Europe/Moscow] 🔍 Routing: method=GET, path=/lessons/402/quiz
+[15-May-2026 08:30:10 Europe/Moscow] 🔍 Routing: method=PUT, path=/courses/41
+[15-May-2026 08:30:30 Europe/Moscow] 🔍 Routing: method=GET, path=/courses/41
+[15-May-2026 08:30:33 Europe/Moscow] 🔍 Routing: method=GET, path=/courses
+[15-May-2026 08:30:33 Europe/Moscow] ✅ Matched GET /courses
+[15-May-2026 08:31:08 Europe/Moscow] 🔍 Routing: method=POST, path=/auth/login
+[15-May-2026 08:31:09 Europe/Moscow] 🔍 Routing: method=GET, path=/notifications
+[15-May-2026 08:31:09 Europe/Moscow] 🔍 Routing: method=GET, path=/auth/me
+[15-May-2026 08:31:09 Europe/Moscow] 🔍 Routing: method=GET, path=/courses
+[15-May-2026 08:31:09 Europe/Moscow] ✅ Matched GET /courses
+[15-May-2026 08:31:11 Europe/Moscow] 🔍 Routing: method=GET, path=/admin/users
+[15-May-2026 08:31:11 Europe/Moscow] 🔍 Routing: method=GET, path=/admin/courses
+[15-May-2026 08:31:11 Europe/Moscow] 🔍 Routing: method=GET, path=/admin/courses/pending
+[15-May-2026 08:31:23 Europe/Moscow] 🔍 Routing: method=GET, path=/courses/41/structure
+[15-May-2026 08:31:23 Europe/Moscow] 🔍 Routing: method=GET, path=/lessons/400
+[15-May-2026 08:31:23 Europe/Moscow] 🎯 GET /lessons/400
+[15-May-2026 08:31:23 Europe/Moscow] ✅ Lesson loaded: Установка и настройка
+[15-May-2026 08:31:23 Europe/Moscow] 🔍 Routing: method=GET, path=/courses/41/structure
+[15-May-2026 08:31:27 Europe/Moscow] 🔍 Routing: method=GET, path=/lessons/401
+[15-May-2026 08:31:27 Europe/Moscow] 🎯 GET /lessons/401
+[15-May-2026 08:31:27 Europe/Moscow] ✅ Lesson loaded: Первая программа "Hello World"
+[15-May-2026 08:31:27 Europe/Moscow] 🔍 Routing: method=GET, path=/courses/41/structure
+[15-May-2026 08:31:31 Europe/Moscow] 🔍 Routing: method=GET, path=/lessons/400
+[15-May-2026 08:31:31 Europe/Moscow] 🎯 GET /lessons/400
+[15-May-2026 08:31:31 Europe/Moscow] ✅ Lesson loaded: Установка и настройка
+[15-May-2026 08:31:31 Europe/Moscow] 🔍 Routing: method=GET, path=/courses/41/structure
+[15-May-2026 08:31:32 Europe/Moscow] 🔍 Routing: method=GET, path=/lessons/402
+[15-May-2026 08:31:32 Europe/Moscow] 🎯 GET /lessons/402
+[15-May-2026 08:31:32 Europe/Moscow] ✅ Lesson loaded: Тест: Проверка знаний
+[15-May-2026 08:31:32 Europe/Moscow] 🔍 Routing: method=GET, path=/courses/41/structure
+[15-May-2026 08:31:35 Europe/Moscow] 🔍 Routing: method=GET, path=/lessons/400
+[15-May-2026 08:31:35 Europe/Moscow] 🎯 GET /lessons/400
+[15-May-2026 08:31:35 Europe/Moscow] ✅ Lesson loaded: Установка и настройка
+[15-May-2026 08:31:35 Europe/Moscow] 🔍 Routing: method=GET, path=/courses/41/structure
+[15-May-2026 08:31:51 Europe/Moscow] 🔍 Routing: method=GET, path=/courses/41/structure
+[15-May-2026 08:31:52 Europe/Moscow] 🔍 Routing: method=GET, path=/courses
+[15-May-2026 08:31:52 Europe/Moscow] ✅ Matched GET /courses
+[15-May-2026 08:32:03 Europe/Moscow] 🔍 Routing: method=POST, path=/auth/login
+[15-May-2026 08:32:03 Europe/Moscow] 🔍 Routing: method=GET, path=/notifications
+[15-May-2026 08:32:03 Europe/Moscow] 🔍 Routing: method=GET, path=/auth/me
+[15-May-2026 08:32:03 Europe/Moscow] 🔍 Routing: method=GET, path=/courses
+[15-May-2026 08:32:03 Europe/Moscow] ✅ Matched GET /courses
+[15-May-2026 08:32:05 Europe/Moscow] 🔍 Routing: method=GET, path=/teacher/courses
+[15-May-2026 08:32:05 Europe/Moscow] ✅ Found 3 courses for teacher 1
+[15-May-2026 08:32:06 Europe/Moscow] 🔍 Routing: method=GET, path=/courses/41
+[15-May-2026 08:32:13 Europe/Moscow] 🔍 Routing: method=GET, path=/lessons/402/quiz
+[15-May-2026 08:32:47 Europe/Moscow] 🔍 Routing: method=PUT, path=/lessons/400
+[15-May-2026 08:32:47 Europe/Moscow] 🔍 Routing: method=GET, path=/courses/41
+[15-May-2026 08:33:27 Europe/Moscow] 🔍 Routing: method=GET, path=/courses
+[15-May-2026 08:33:27 Europe/Moscow] ✅ Matched GET /courses
+[15-May-2026 08:33:30 Europe/Moscow] 🔍 Routing: method=GET, path=/teacher/courses
+[15-May-2026 08:33:30 Europe/Moscow] ✅ Found 3 courses for teacher 1
+[15-May-2026 08:33:33 Europe/Moscow] 🔍 Routing: method=GET, path=/courses/41
+[15-May-2026 08:33:45 Europe/Moscow] 🔍 Routing: method=GET, path=/courses/41
+[15-May-2026 08:33:45 Europe/Moscow] 🔍 Routing: method=GET, path=/courses
+[15-May-2026 08:33:45 Europe/Moscow] ✅ Matched GET /courses
+[15-May-2026 08:33:49 Europe/Moscow] 🔍 Routing: method=POST, path=/auth/login
+[15-May-2026 08:33:50 Europe/Moscow] 🔍 Routing: method=GET, path=/notifications
+[15-May-2026 08:33:50 Europe/Moscow] 🔍 Routing: method=GET, path=/auth/me
+[15-May-2026 08:33:50 Europe/Moscow] 🔍 Routing: method=GET, path=/courses
+[15-May-2026 08:33:50 Europe/Moscow] ✅ Matched GET /courses
+[15-May-2026 08:33:53 Europe/Moscow] 🔍 Routing: method=GET, path=/admin/users
+[15-May-2026 08:33:53 Europe/Moscow] 🔍 Routing: method=GET, path=/admin/courses
+[15-May-2026 08:33:53 Europe/Moscow] 🔍 Routing: method=GET, path=/admin/courses/pending
+[15-May-2026 08:34:37 Europe/Moscow] 🔍 Routing: method=GET, path=/courses/41/structure
+[15-May-2026 08:34:37 Europe/Moscow] 🔍 Routing: method=GET, path=/lessons/400
+[15-May-2026 08:34:37 Europe/Moscow] 🎯 GET /lessons/400
+[15-May-2026 08:34:37 Europe/Moscow] ✅ Lesson loaded: Установка и настройка
+[15-May-2026 08:34:37 Europe/Moscow] 🔍 Routing: method=GET, path=/courses/41/structure
+[15-May-2026 08:34:39 Europe/Moscow] 🔍 Routing: method=GET, path=/lessons/401
+[15-May-2026 08:34:39 Europe/Moscow] 🎯 GET /lessons/401
+[15-May-2026 08:34:39 Europe/Moscow] ✅ Lesson loaded: Первая программа "Hello World"
+[15-May-2026 08:34:39 Europe/Moscow] 🔍 Routing: method=GET, path=/courses/41/structure
+[15-May-2026 08:34:44 Europe/Moscow] 🔍 Routing: method=GET, path=/courses
+[15-May-2026 08:34:44 Europe/Moscow] ✅ Matched GET /courses
+[15-May-2026 08:34:47 Europe/Moscow] 🔍 Routing: method=GET, path=/admin/users
+[15-May-2026 08:34:47 Europe/Moscow] 🔍 Routing: method=GET, path=/admin/courses
+[15-May-2026 08:34:47 Europe/Moscow] 🔍 Routing: method=GET, path=/admin/courses/pending
+[15-May-2026 08:34:49 Europe/Moscow] 🔍 Routing: method=PUT, path=/admin/courses/41/status
+[15-May-2026 08:34:49 Europe/Moscow] 🔍 Routing: method=GET, path=/admin/courses
+[15-May-2026 08:34:51 Europe/Moscow] 🔍 Routing: method=GET, path=/courses
+[15-May-2026 08:34:51 Europe/Moscow] ✅ Matched GET /courses
+[15-May-2026 08:34:54 Europe/Moscow] 🔍 Routing: method=GET, path=/courses/41
+[15-May-2026 08:34:54 Europe/Moscow] 🔍 Routing: method=GET, path=/user/wishlist
+[15-May-2026 08:35:01 Europe/Moscow] 🔍 Routing: method=GET, path=/courses/41
+[15-May-2026 08:35:02 Europe/Moscow] 🔍 Routing: method=GET, path=/courses
+[15-May-2026 08:35:02 Europe/Moscow] ✅ Matched GET /courses
+[15-May-2026 08:35:26 Europe/Moscow] 🔍 Routing: method=POST, path=/auth/login
+[15-May-2026 08:35:27 Europe/Moscow] 🔍 Routing: method=GET, path=/notifications
+[15-May-2026 08:35:27 Europe/Moscow] 🔍 Routing: method=GET, path=/auth/me
+[15-May-2026 08:35:27 Europe/Moscow] 🔍 Routing: method=GET, path=/courses
+[15-May-2026 08:35:27 Europe/Moscow] ✅ Matched GET /courses
+[15-May-2026 08:35:43 Europe/Moscow] 🔍 Routing: method=GET, path=/courses/41
+[15-May-2026 08:35:43 Europe/Moscow] 🔍 Routing: method=GET, path=/user/wishlist
+[15-May-2026 08:35:45 Europe/Moscow] 🔍 Routing: method=POST, path=/courses/41/wishlist
+[15-May-2026 08:35:46 Europe/Moscow] 🔍 Routing: method=POST, path=/courses/41/enroll
+[15-May-2026 08:35:46 Europe/Moscow] 🔍 Routing: method=GET, path=/courses/41/structure
+[15-May-2026 08:35:46 Europe/Moscow] 🔍 Routing: method=GET, path=/lessons/400
+[15-May-2026 08:35:46 Europe/Moscow] 🎯 GET /lessons/400
+[15-May-2026 08:35:46 Europe/Moscow] ✅ Lesson loaded: Установка и настройка
+[15-May-2026 08:35:46 Europe/Moscow] 🔍 Routing: method=GET, path=/courses/41/structure
+[15-May-2026 08:35:52 Europe/Moscow] 🔍 Routing: method=POST, path=/lessons/400/complete
+[15-May-2026 08:35:52 Europe/Moscow] PHP Warning:  Undefined variable $userCorrectOptions in C:\Users\EvaRiss_\Downloads\Cursor\backend\index.php on line 376
+[15-May-2026 08:35:52 Europe/Moscow] PHP Warning:  Undefined variable $totalCorrectOptions in C:\Users\EvaRiss_\Downloads\Cursor\backend\index.php on line 377
+[15-May-2026 08:35:52 Europe/Moscow] PHP Notice:  ob_end_clean(): Failed to delete buffer. No buffer to delete in C:\Users\EvaRiss_\Downloads\Cursor\backend\index.php on line 382
+[15-May-2026 08:35:52 Europe/Moscow] 🔍 Routing: method=GET, path=/courses/41/structure
+[15-May-2026 08:35:53 Europe/Moscow] 🔍 Routing: method=GET, path=/lessons/401
+[15-May-2026 08:35:53 Europe/Moscow] 🎯 GET /lessons/401
+[15-May-2026 08:35:53 Europe/Moscow] ✅ Lesson loaded: Первая программа "Hello World"
+[15-May-2026 08:35:53 Europe/Moscow] 🔍 Routing: method=GET, path=/courses/41/structure
+[15-May-2026 08:35:58 Europe/Moscow] 🔍 Routing: method=POST, path=/lessons/401/complete
+[15-May-2026 08:35:58 Europe/Moscow] PHP Warning:  Undefined variable $userCorrectOptions in C:\Users\EvaRiss_\Downloads\Cursor\backend\index.php on line 376
+[15-May-2026 08:35:58 Europe/Moscow] PHP Warning:  Undefined variable $totalCorrectOptions in C:\Users\EvaRiss_\Downloads\Cursor\backend\index.php on line 377
+[15-May-2026 08:35:58 Europe/Moscow] PHP Notice:  ob_end_clean(): Failed to delete buffer. No buffer to delete in C:\Users\EvaRiss_\Downloads\Cursor\backend\index.php on line 382
+[15-May-2026 08:35:58 Europe/Moscow] 🔍 Routing: method=GET, path=/courses/41/structure
+[15-May-2026 08:36:00 Europe/Moscow] 🔍 Routing: method=GET, path=/lessons/402
+[15-May-2026 08:36:00 Europe/Moscow] 🎯 GET /lessons/402
+[15-May-2026 08:36:00 Europe/Moscow] ✅ Lesson loaded: Тест: Проверка знаний
+[15-May-2026 08:36:00 Europe/Moscow] 🔍 Routing: method=GET, path=/courses/41/structure
+[15-May-2026 08:36:05 Europe/Moscow] 🔍 Routing: method=POST, path=/lessons/402/complete
+[15-May-2026 08:36:05 Europe/Moscow] PHP Notice:  ob_end_clean(): Failed to delete buffer. No buffer to delete in C:\Users\EvaRiss_\Downloads\Cursor\backend\index.php on line 382
+[15-May-2026 08:36:05 Europe/Moscow] 🔍 Routing: method=GET, path=/courses/41/structure
+[15-May-2026 08:36:05 Europe/Moscow] 🔍 Routing: method=POST, path=/certificates/issue
+[15-May-2026 08:36:05 Europe/Moscow] PHP Notice:  ob_end_clean(): Failed to delete buffer. No buffer to delete in C:\Users\EvaRiss_\Downloads\Cursor\backend\index.php on line 1479
+[15-May-2026 08:36:11 Europe/Moscow] 🔍 Routing: method=GET, path=/lessons/401
+[15-May-2026 08:36:11 Europe/Moscow] 🎯 GET /lessons/401
+[15-May-2026 08:36:11 Europe/Moscow] ✅ Lesson loaded: Первая программа "Hello World"
+[15-May-2026 08:36:11 Europe/Moscow] 🔍 Routing: method=GET, path=/courses/41/structure
+[15-May-2026 08:36:11 Europe/Moscow] 🔍 Routing: method=GET, path=/lessons/402
+[15-May-2026 08:36:11 Europe/Moscow] 🎯 GET /lessons/402
+[15-May-2026 08:36:11 Europe/Moscow] ✅ Lesson loaded: Тест: Проверка знаний
+[15-May-2026 08:36:11 Europe/Moscow] 🔍 Routing: method=GET, path=/courses/41/structure
+[15-May-2026 08:36:15 Europe/Moscow] 🔍 Routing: method=POST, path=/lessons/402/complete
+[15-May-2026 08:36:15 Europe/Moscow] PHP Notice:  ob_end_clean(): Failed to delete buffer. No buffer to delete in C:\Users\EvaRiss_\Downloads\Cursor\backend\index.php on line 382
+[15-May-2026 08:36:22 Europe/Moscow] 🔍 Routing: method=GET, path=/notifications
+[15-May-2026 08:36:27 Europe/Moscow] 🔍 Routing: method=POST, path=/notifications/6/read
+[15-May-2026 08:36:29 Europe/Moscow] 🔍 Routing: method=GET, path=/user/certificates
+[15-May-2026 08:38:03 Europe/Moscow] 🔍 Routing: method=GET, path=/courses
+[15-May-2026 08:38:03 Europe/Moscow] ✅ Matched GET /courses
+[15-May-2026 08:38:09 Europe/Moscow] 🔍 Routing: method=POST, path=/auth/login
+[15-May-2026 08:38:10 Europe/Moscow] 🔍 Routing: method=GET, path=/notifications
+[15-May-2026 08:38:10 Europe/Moscow] 🔍 Routing: method=GET, path=/auth/me
+[15-May-2026 08:38:10 Europe/Moscow] 🔍 Routing: method=GET, path=/courses
+[15-May-2026 08:38:10 Europe/Moscow] ✅ Matched GET /courses
+[15-May-2026 08:38:11 Europe/Moscow] 🔍 Routing: method=GET, path=/teacher/courses
+[15-May-2026 08:38:11 Europe/Moscow] ✅ Found 4 courses for teacher 2
+[15-May-2026 08:38:18 Europe/Moscow] 🔍 Routing: method=GET, path=/courses
+[15-May-2026 08:38:18 Europe/Moscow] ✅ Matched GET /courses
+[15-May-2026 08:38:19 Europe/Moscow] 🔍 Routing: method=POST, path=/auth/login
+[15-May-2026 08:38:20 Europe/Moscow] 🔍 Routing: method=GET, path=/notifications
+[15-May-2026 08:38:20 Europe/Moscow] 🔍 Routing: method=GET, path=/courses
+[15-May-2026 08:38:20 Europe/Moscow] ✅ Matched GET /courses
+[15-May-2026 08:38:20 Europe/Moscow] 🔍 Routing: method=GET, path=/auth/me
+[15-May-2026 08:38:22 Europe/Moscow] 🔍 Routing: method=GET, path=/teacher/courses
+[15-May-2026 08:38:22 Europe/Moscow] ✅ Found 3 courses for teacher 1
+[15-May-2026 08:38:22 Europe/Moscow] 🔍 Routing: method=GET, path=/courses/41
+[15-May-2026 08:38:38 Europe/Moscow] 🔍 Routing: method=POST, path=/courses/41/modules
+[15-May-2026 08:39:17 Europe/Moscow] 🔍 Routing: method=DELETE, path=/courses/41
+[15-May-2026 08:39:17 Europe/Moscow] 🔍 Routing: method=GET, path=/teacher/courses
+[15-May-2026 08:39:17 Europe/Moscow] ✅ Found 2 courses for teacher 1
+[15-May-2026 08:39:19 Europe/Moscow] 🔍 Routing: method=GET, path=/courses
+[15-May-2026 08:39:19 Europe/Moscow] ✅ Matched GET /courses
+[15-May-2026 08:40:42 Europe/Moscow] 🔍 Routing: method=GET, path=/teacher/courses
+[15-May-2026 08:40:42 Europe/Moscow] ✅ Found 2 courses for teacher 1
+[15-May-2026 08:40:46 Europe/Moscow] 🔍 Routing: method=GET, path=/courses/28
+[15-May-2026 08:40:53 Europe/Moscow] 🔍 Routing: method=PUT, path=/courses/28
+[15-May-2026 08:41:21 Europe/Moscow] 🔍 Routing: method=POST, path=/modules/33/lessons
+[15-May-2026 08:41:21 Europe/Moscow] 🔍 Routing: method=GET, path=/courses/28
+[15-May-2026 09:27:19 Europe/Moscow] 🔍 Routing: method=GET, path=/notifications
+[15-May-2026 09:27:19 Europe/Moscow] 🔍 Routing: method=GET, path=/auth/me
+[15-May-2026 09:27:19 Europe/Moscow] 🔍 Routing: method=GET, path=/courses/28
+[15-May-2026 09:30:53 Europe/Moscow] 🔍 Routing: method=GET, path=/notifications
+[15-May-2026 09:30:53 Europe/Moscow] 🔍 Routing: method=GET, path=/auth/me
+[15-May-2026 09:30:53 Europe/Moscow] 🔍 Routing: method=GET, path=/courses/28
+[15-May-2026 09:31:19 Europe/Moscow] 🔍 Routing: method=GET, path=/notifications
+[15-May-2026 09:31:20 Europe/Moscow] 🔍 Routing: method=GET, path=/auth/me
+[15-May-2026 09:31:20 Europe/Moscow] 🔍 Routing: method=GET, path=/courses/28
+[15-May-2026 09:57:44 Europe/Moscow] 🔍 Routing: method=GET, path=/notifications
+[15-May-2026 09:57:44 Europe/Moscow] 🔍 Routing: method=GET, path=/auth/me
+[15-May-2026 09:57:44 Europe/Moscow] 🔍 Routing: method=GET, path=/courses/28
+[15-May-2026 10:22:57 Europe/Moscow] 🔍 Routing: method=GET, path=/notifications
+[15-May-2026 10:22:57 Europe/Moscow] 🔍 Routing: method=GET, path=/auth/me
+[15-May-2026 10:22:57 Europe/Moscow] 🔍 Routing: method=GET, path=/courses/28
+[15-May-2026 10:38:43 Europe/Moscow] 🔍 Routing: method=GET, path=/notifications
+[15-May-2026 10:38:43 Europe/Moscow] 🔍 Routing: method=GET, path=/auth/me
+[15-May-2026 10:38:43 Europe/Moscow] 🔍 Routing: method=GET, path=/courses/28
+[15-May-2026 10:42:15 Europe/Moscow] 🔍 Routing: method=GET, path=/notifications
+[15-May-2026 10:42:15 Europe/Moscow] 🔍 Routing: method=GET, path=/auth/me
+[15-May-2026 10:42:15 Europe/Moscow] 🔍 Routing: method=GET, path=/courses/28
+[17-May-2026 18:22:42 Europe/Moscow] 🔍 Routing: method=GET, path=/notifications
+[17-May-2026 18:22:42 Europe/Moscow] 🔍 Routing: method=GET, path=/auth/me
+[17-May-2026 18:22:42 Europe/Moscow] 🔍 Routing: method=GET, path=/courses/28
+[17-May-2026 18:22:45 Europe/Moscow] 🔍 Routing: method=GET, path=/notifications
+[17-May-2026 18:22:47 Europe/Moscow] 🔍 Routing: method=POST, path=/notifications/5/read
+[17-May-2026 18:22:50 Europe/Moscow] 🔍 Routing: method=GET, path=/courses
+[17-May-2026 18:22:50 Europe/Moscow] ✅ Matched GET /courses
+[17-May-2026 18:24:06 Europe/Moscow] 🔍 Routing: method=GET, path=/courses
+[17-May-2026 18:24:06 Europe/Moscow] ✅ Matched GET /courses
+[17-May-2026 18:25:06 Europe/Moscow] 🔍 Routing: method=GET, path=/courses/37
+[17-May-2026 18:25:06 Europe/Moscow] 🔍 Routing: method=GET, path=/user/wishlist
+[17-May-2026 18:25:11 Europe/Moscow] 🔍 Routing: method=GET, path=/courses
+[17-May-2026 18:25:11 Europe/Moscow] ✅ Matched GET /courses
+[17-May-2026 18:25:13 Europe/Moscow] 🔍 Routing: method=GET, path=/courses
+[17-May-2026 18:25:13 Europe/Moscow] ✅ Matched GET /courses
+[17-May-2026 18:25:14 Europe/Moscow] 🔍 Routing: method=GET, path=/courses/28
+[17-May-2026 18:25:14 Europe/Moscow] 🔍 Routing: method=GET, path=/user/wishlist
+[17-May-2026 18:26:53 Europe/Moscow] 🔍 Routing: method=GET, path=/teacher/courses
+[17-May-2026 18:26:53 Europe/Moscow] ✅ Found 2 courses for teacher 1
+[17-May-2026 18:27:34 Europe/Moscow] 🔍 Routing: method=GET, path=/user/certificates
+[17-May-2026 18:28:10 Europe/Moscow] 🔍 Routing: method=GET, path=/notifications
+[17-May-2026 18:28:10 Europe/Moscow] 🔍 Routing: method=GET, path=/auth/me
+[18-May-2026 11:26:37 Europe/Moscow] 🔍 Routing: method=GET, path=/notifications
+[18-May-2026 11:26:37 Europe/Moscow] 🔍 Routing: method=GET, path=/auth/me
+[18-May-2026 11:26:41 Europe/Moscow] 🔍 Routing: method=GET, path=/courses
+[18-May-2026 11:26:41 Europe/Moscow] ✅ Matched GET /courses
+[18-May-2026 11:26:46 Europe/Moscow] 🔍 Routing: method=POST, path=/auth/login
+[18-May-2026 11:26:49 Europe/Moscow] 🔍 Routing: method=POST, path=/auth/login
+[18-May-2026 11:27:01 Europe/Moscow] 🔍 Routing: method=POST, path=/auth/login
+[18-May-2026 11:27:02 Europe/Moscow] 🔍 Routing: method=GET, path=/notifications
+[18-May-2026 11:27:02 Europe/Moscow] 🔍 Routing: method=GET, path=/auth/me
+[18-May-2026 11:27:02 Europe/Moscow] 🔍 Routing: method=GET, path=/courses
+[18-May-2026 11:27:02 Europe/Moscow] ✅ Matched GET /courses
+[18-May-2026 11:27:07 Europe/Moscow] 🔍 Routing: method=GET, path=/admin/users
+[18-May-2026 11:27:07 Europe/Moscow] 🔍 Routing: method=GET, path=/admin/courses
+[18-May-2026 11:27:07 Europe/Moscow] 🔍 Routing: method=GET, path=/admin/courses/pending
+[19-May-2026 06:59:55 Europe/Moscow] 🔍 Routing: method=GET, path=/notifications
+[19-May-2026 06:59:56 Europe/Moscow] 🔍 Routing: method=GET, path=/auth/me
+[19-May-2026 06:59:56 Europe/Moscow] 🔍 Routing: method=GET, path=/admin/users
+[19-May-2026 06:59:56 Europe/Moscow] 🔍 Routing: method=GET, path=/admin/courses
+[19-May-2026 06:59:56 Europe/Moscow] 🔍 Routing: method=GET, path=/admin/courses/pending
+[19-May-2026 07:00:12 Europe/Moscow] 🔍 Routing: method=GET, path=/user/certificates
+[19-May-2026 07:00:19 Europe/Moscow] 🔍 Routing: method=GET, path=/user/enrollments
+[19-May-2026 07:00:19 Europe/Moscow] 🔍 Routing: method=GET, path=/user/wishlist
+[19-May-2026 07:00:19 Europe/Moscow] 🔍 Routing: method=GET, path=/courses
+[19-May-2026 07:00:19 Europe/Moscow] ✅ Matched GET /courses
+[19-May-2026 07:01:04 Europe/Moscow] 🔍 Routing: method=GET, path=/notifications
+[19-May-2026 07:01:05 Europe/Moscow] 🔍 Routing: method=GET, path=/auth/me
+[19-May-2026 07:01:05 Europe/Moscow] 🔍 Routing: method=GET, path=/user/enrollments
+[19-May-2026 07:01:05 Europe/Moscow] 🔍 Routing: method=GET, path=/user/wishlist
+[19-May-2026 07:01:05 Europe/Moscow] 🔍 Routing: method=GET, path=/courses
+[19-May-2026 07:01:05 Europe/Moscow] ✅ Matched GET /courses
+[19-May-2026 07:02:00 Europe/Moscow] 🔍 Routing: method=GET, path=/notifications
+[19-May-2026 07:02:00 Europe/Moscow] 🔍 Routing: method=GET, path=/auth/me
+[19-May-2026 07:02:00 Europe/Moscow] 🔍 Routing: method=GET, path=/user/enrollments
+[19-May-2026 07:02:00 Europe/Moscow] 🔍 Routing: method=GET, path=/user/wishlist
+[19-May-2026 07:02:00 Europe/Moscow] 🔍 Routing: method=GET, path=/courses
+[19-May-2026 07:02:00 Europe/Moscow] ✅ Matched GET /courses
+[19-May-2026 07:02:10 Europe/Moscow] 🔍 Routing: method=GET, path=/courses
+[19-May-2026 07:02:10 Europe/Moscow] ✅ Matched GET /courses
+[19-May-2026 07:02:13 Europe/Moscow] 🔍 Routing: method=GET, path=/user/enrollments
+[19-May-2026 07:02:13 Europe/Moscow] 🔍 Routing: method=GET, path=/user/wishlist
+[19-May-2026 07:02:13 Europe/Moscow] 🔍 Routing: method=GET, path=/courses
+[19-May-2026 07:02:13 Europe/Moscow] ✅ Matched GET /courses
+[19-May-2026 07:02:19 Europe/Moscow] 🔍 Routing: method=GET, path=/courses
+[19-May-2026 07:02:19 Europe/Moscow] ✅ Matched GET /courses
+[19-May-2026 07:02:20 Europe/Moscow] 🔍 Routing: method=GET, path=/teacher/courses
+[19-May-2026 07:02:20 Europe/Moscow] ✅ Found 1 courses for teacher 15
+[19-May-2026 07:02:22 Europe/Moscow] 🔍 Routing: method=GET, path=/courses/38
+[19-May-2026 07:02:28 Europe/Moscow] 🔍 Routing: method=DELETE, path=/courses/38
+[19-May-2026 07:02:28 Europe/Moscow] 🔍 Routing: method=GET, path=/teacher/courses
+[19-May-2026 07:02:28 Europe/Moscow] ✅ Found 0 courses for teacher 15
+[19-May-2026 07:02:33 Europe/Moscow] 🔍 Routing: method=GET, path=/admin/users
+[19-May-2026 07:02:33 Europe/Moscow] 🔍 Routing: method=GET, path=/admin/courses
+[19-May-2026 07:02:33 Europe/Moscow] 🔍 Routing: method=GET, path=/admin/courses/pending
+[19-May-2026 07:02:34 Europe/Moscow] 🔍 Routing: method=GET, path=/notifications
+[19-May-2026 07:02:37 Europe/Moscow] 🔍 Routing: method=GET, path=/teacher/courses
+[19-May-2026 07:02:37 Europe/Moscow] ✅ Found 0 courses for teacher 15
+[19-May-2026 07:02:38 Europe/Moscow] 🔍 Routing: method=GET, path=/courses
+[19-May-2026 07:02:38 Europe/Moscow] ✅ Matched GET /courses
+[19-May-2026 07:02:39 Europe/Moscow] 🔍 Routing: method=GET, path=/user/enrollments
+[19-May-2026 07:02:39 Europe/Moscow] 🔍 Routing: method=GET, path=/user/wishlist
+[19-May-2026 07:02:39 Europe/Moscow] 🔍 Routing: method=GET, path=/courses
+[19-May-2026 07:02:39 Europe/Moscow] ✅ Matched GET /courses
+[19-May-2026 07:02:41 Europe/Moscow] 🔍 Routing: method=GET, path=/courses
+[19-May-2026 07:02:41 Europe/Moscow] ✅ Matched GET /courses
+[19-May-2026 07:03:06 Europe/Moscow] 🔍 Routing: method=GET, path=/admin/users
+[19-May-2026 07:03:06 Europe/Moscow] 🔍 Routing: method=GET, path=/admin/courses
+[19-May-2026 07:03:06 Europe/Moscow] 🔍 Routing: method=GET, path=/admin/courses/pending
+[19-May-2026 07:03:34 Europe/Moscow] 🔍 Routing: method=GET, path=/courses
+[19-May-2026 07:03:34 Europe/Moscow] ✅ Matched GET /courses
+[19-May-2026 07:03:40 Europe/Moscow] 🔍 Routing: method=GET, path=/notifications
+[19-May-2026 07:03:40 Europe/Moscow] 🔍 Routing: method=GET, path=/auth/me
+[19-May-2026 07:03:40 Europe/Moscow] 🔍 Routing: method=GET, path=/courses
+[19-May-2026 07:03:40 Europe/Moscow] ✅ Matched GET /courses
+[19-May-2026 07:04:41 Europe/Moscow] 🔍 Routing: method=GET, path=/courses
+[19-May-2026 07:04:41 Europe/Moscow] ✅ Matched GET /courses
+[19-May-2026 07:05:17 Europe/Moscow] 🔍 Routing: method=GET, path=/courses
+[19-May-2026 07:05:17 Europe/Moscow] ✅ Matched GET /courses
+[19-May-2026 07:05:24 Europe/Moscow] 🔍 Routing: method=GET, path=/courses
+[19-May-2026 07:05:24 Europe/Moscow] ✅ Matched GET /courses
+[19-May-2026 07:05:29 Europe/Moscow] 🔍 Routing: method=GET, path=/courses
+[19-May-2026 07:05:29 Europe/Moscow] ✅ Matched GET /courses
+[19-May-2026 07:05:34 Europe/Moscow] 🔍 Routing: method=GET, path=/user/enrollments
+[19-May-2026 07:05:34 Europe/Moscow] 🔍 Routing: method=GET, path=/user/wishlist
+[19-May-2026 07:05:35 Europe/Moscow] 🔍 Routing: method=GET, path=/courses
+[19-May-2026 07:05:35 Europe/Moscow] ✅ Matched GET /courses
+[19-May-2026 07:05:36 Europe/Moscow] 🔍 Routing: method=GET, path=/courses
+[19-May-2026 07:05:36 Europe/Moscow] ✅ Matched GET /courses
+[19-May-2026 07:05:41 Europe/Moscow] 🔍 Routing: method=GET, path=/teacher/courses
+[19-May-2026 07:05:41 Europe/Moscow] ✅ Found 0 courses for teacher 15
+[19-May-2026 07:05:43 Europe/Moscow] 🔍 Routing: method=GET, path=/admin/users
+[19-May-2026 07:05:43 Europe/Moscow] 🔍 Routing: method=GET, path=/admin/courses
+[19-May-2026 07:05:43 Europe/Moscow] 🔍 Routing: method=GET, path=/admin/courses/pending
+[19-May-2026 07:05:51 Europe/Moscow] 🔍 Routing: method=GET, path=/user/certificates
+[19-May-2026 07:05:53 Europe/Moscow] 🔍 Routing: method=GET, path=/notifications
+[19-May-2026 07:05:53 Europe/Moscow] 🔍 Routing: method=GET, path=/auth/me
+[19-May-2026 07:05:57 Europe/Moscow] 🔍 Routing: method=GET, path=/notifications
+[19-May-2026 07:05:57 Europe/Moscow] 🔍 Routing: method=GET, path=/auth/me
+[19-May-2026 07:05:57 Europe/Moscow] 🔍 Routing: method=GET, path=/user/certificates
+[19-May-2026 07:06:21 Europe/Moscow] 🔍 Routing: method=GET, path=/notifications
+[19-May-2026 07:06:21 Europe/Moscow] 🔍 Routing: method=GET, path=/auth/me
+[19-May-2026 07:06:21 Europe/Moscow] 🔍 Routing: method=GET, path=/user/certificates
+[18-May-2026 22:10:40 Europe/Moscow] 🔍 Routing: method=GET, path=/notifications
+[18-May-2026 22:10:40 Europe/Moscow] 🔍 Routing: method=GET, path=/auth/me
+[18-May-2026 22:10:40 Europe/Moscow] 🔍 Routing: method=GET, path=/courses
+[18-May-2026 22:10:40 Europe/Moscow] ✅ Matched GET /courses
+[18-May-2026 22:16:36 Europe/Moscow] 🔍 Routing: method=GET, path=/notifications
+[18-May-2026 22:16:36 Europe/Moscow] 🔍 Routing: method=GET, path=/auth/me
+[18-May-2026 22:16:36 Europe/Moscow] 🔍 Routing: method=GET, path=/courses
+[18-May-2026 22:16:36 Europe/Moscow] ✅ Matched GET /courses
+[18-May-2026 22:17:12 Europe/Moscow] 🔍 Routing: method=GET, path=/courses
+[18-May-2026 22:17:12 Europe/Moscow] ✅ Matched GET /courses
+[18-May-2026 22:17:30 Europe/Moscow] 🔍 Routing: method=GET, path=/user/enrollments
+[18-May-2026 22:17:30 Europe/Moscow] 🔍 Routing: method=GET, path=/user/wishlist
+[18-May-2026 22:17:30 Europe/Moscow] 🔍 Routing: method=GET, path=/courses
+[18-May-2026 22:17:30 Europe/Moscow] ✅ Matched GET /courses
+[18-May-2026 22:17:44 Europe/Moscow] 🔍 Routing: method=GET, path=/courses
+[18-May-2026 22:17:44 Europe/Moscow] ✅ Matched GET /courses
+[18-May-2026 22:17:46 Europe/Moscow] 🔍 Routing: method=GET, path=/courses/4
+[18-May-2026 22:17:46 Europe/Moscow] 🔍 Routing: method=GET, path=/user/wishlist
+[18-May-2026 22:17:47 Europe/Moscow] 🔍 Routing: method=POST, path=/courses/4/wishlist
+[18-May-2026 22:17:50 Europe/Moscow] 🔍 Routing: method=GET, path=/user/wishlist
+[18-May-2026 22:17:50 Europe/Moscow] 🔍 Routing: method=GET, path=/user/enrollments
+[18-May-2026 22:17:50 Europe/Moscow] 🔍 Routing: method=GET, path=/courses
+[18-May-2026 22:17:50 Europe/Moscow] ✅ Matched GET /courses
+[18-May-2026 22:18:10 Europe/Moscow] 🔍 Routing: method=GET, path=/teacher/courses
+[18-May-2026 22:18:10 Europe/Moscow] ✅ Found 0 courses for teacher 15
+[18-May-2026 22:18:28 Europe/Moscow] 🔍 Routing: method=POST, path=/courses
+[18-May-2026 22:18:28 Europe/Moscow] 🔍 Routing: method=GET, path=/teacher/courses
+[18-May-2026 22:18:28 Europe/Moscow] ✅ Found 1 courses for teacher 15
+[18-May-2026 22:18:40 Europe/Moscow] 🔍 Routing: method=GET, path=/courses/42
+[18-May-2026 22:19:33 Europe/Moscow] 🔍 Routing: method=POST, path=/courses/42/modules
+[18-May-2026 22:20:20 Europe/Moscow] 🔍 Routing: method=POST, path=/modules/43/lessons
+[18-May-2026 22:20:20 Europe/Moscow] 🔍 Routing: method=GET, path=/courses/42
+[18-May-2026 22:20:48 Europe/Moscow] 🔍 Routing: method=POST, path=/modules/43/lessons
+[18-May-2026 22:20:48 Europe/Moscow] 🔍 Routing: method=GET, path=/courses/42
+[18-May-2026 22:21:04 Europe/Moscow] 🔍 Routing: method=PUT, path=/courses/42
+[18-May-2026 22:21:11 Europe/Moscow] 🔍 Routing: method=GET, path=/admin/users
+[18-May-2026 22:21:11 Europe/Moscow] 🔍 Routing: method=GET, path=/admin/courses
+[18-May-2026 22:21:11 Europe/Moscow] 🔍 Routing: method=GET, path=/admin/courses/pending
+[18-May-2026 22:22:24 Europe/Moscow] 🔍 Routing: method=GET, path=/courses/42/structure
+[18-May-2026 22:22:24 Europe/Moscow] 🔍 Routing: method=GET, path=/lessons/404
+[18-May-2026 22:22:24 Europe/Moscow] 🎯 GET /lessons/404
+[18-May-2026 22:22:24 Europe/Moscow] ✅ Lesson loaded: Видео урок
+[18-May-2026 22:22:24 Europe/Moscow] 🔍 Routing: method=GET, path=/courses/42/structure
+[18-May-2026 22:22:37 Europe/Moscow] 🔍 Routing: method=GET, path=/courses
+[18-May-2026 22:22:37 Europe/Moscow] ✅ Matched GET /courses
+[18-May-2026 22:22:38 Europe/Moscow] 🔍 Routing: method=GET, path=/admin/users
+[18-May-2026 22:22:38 Europe/Moscow] 🔍 Routing: method=GET, path=/admin/courses
+[18-May-2026 22:22:38 Europe/Moscow] 🔍 Routing: method=GET, path=/admin/courses/pending
+[18-May-2026 22:22:48 Europe/Moscow] 🔍 Routing: method=PUT, path=/admin/courses/42/status
+[18-May-2026 22:22:48 Europe/Moscow] 🔍 Routing: method=GET, path=/admin/courses
+[18-May-2026 22:22:49 Europe/Moscow] 🔍 Routing: method=GET, path=/courses
+[18-May-2026 22:22:49 Europe/Moscow] ✅ Matched GET /courses
+[18-May-2026 22:22:51 Europe/Moscow] 🔍 Routing: method=GET, path=/courses
+[18-May-2026 22:22:51 Europe/Moscow] ✅ Matched GET /courses
+[18-May-2026 22:22:59 Europe/Moscow] 🔍 Routing: method=GET, path=/courses/42
+[18-May-2026 22:22:59 Europe/Moscow] 🔍 Routing: method=GET, path=/user/wishlist
+[18-May-2026 22:23:05 Europe/Moscow] 🔍 Routing: method=GET, path=/courses
+[18-May-2026 22:23:05 Europe/Moscow] ✅ Matched GET /courses
+[18-May-2026 22:23:09 Europe/Moscow] 🔍 Routing: method=GET, path=/courses/28
+[18-May-2026 22:23:09 Europe/Moscow] 🔍 Routing: method=GET, path=/user/wishlist
+[18-May-2026 22:23:15 Europe/Moscow] 🔍 Routing: method=POST, path=/courses/28/enroll
+[18-May-2026 22:23:15 Europe/Moscow] 🔍 Routing: method=GET, path=/courses/28/structure
+[18-May-2026 22:23:15 Europe/Moscow] 🔍 Routing: method=GET, path=/lessons/390
+[18-May-2026 22:23:15 Europe/Moscow] 🎯 GET /lessons/390
+[18-May-2026 22:23:15 Europe/Moscow] ✅ Lesson loaded: Введение
+[18-May-2026 22:23:15 Europe/Moscow] 🔍 Routing: method=GET, path=/courses/28/structure
+[18-May-2026 22:23:19 Europe/Moscow] 🔍 Routing: method=GET, path=/user/enrollments
+[18-May-2026 22:23:19 Europe/Moscow] 🔍 Routing: method=GET, path=/user/wishlist
+[18-May-2026 22:23:19 Europe/Moscow] 🔍 Routing: method=GET, path=/courses
+[18-May-2026 22:23:19 Europe/Moscow] ✅ Matched GET /courses
+[18-May-2026 22:23:21 Europe/Moscow] 🔍 Routing: method=GET, path=/courses/28/structure
+[18-May-2026 22:23:21 Europe/Moscow] 🔍 Routing: method=GET, path=/lessons/390
+[18-May-2026 22:23:21 Europe/Moscow] 🎯 GET /lessons/390
+[18-May-2026 22:23:21 Europe/Moscow] ✅ Lesson loaded: Введение
+[18-May-2026 22:23:21 Europe/Moscow] 🔍 Routing: method=GET, path=/courses/28/structure
+[18-May-2026 22:23:27 Europe/Moscow] 🔍 Routing: method=POST, path=/lessons/390/complete
+[18-May-2026 22:23:27 Europe/Moscow] PHP Warning:  Undefined variable $userCorrectOptions in C:\Users\EvaRiss_\Downloads\Cursor\backend\index.php on line 376
+[18-May-2026 22:23:27 Europe/Moscow] PHP Warning:  Undefined variable $totalCorrectOptions in C:\Users\EvaRiss_\Downloads\Cursor\backend\index.php on line 377
+[18-May-2026 22:23:27 Europe/Moscow] PHP Notice:  ob_end_clean(): Failed to delete buffer. No buffer to delete in C:\Users\EvaRiss_\Downloads\Cursor\backend\index.php on line 382
+[18-May-2026 22:23:27 Europe/Moscow] 🔍 Routing: method=GET, path=/courses/28/structure
+[18-May-2026 22:23:35 Europe/Moscow] 🔍 Routing: method=GET, path=/user/enrollments
+[18-May-2026 22:23:35 Europe/Moscow] 🔍 Routing: method=GET, path=/user/wishlist
+[18-May-2026 22:23:35 Europe/Moscow] 🔍 Routing: method=GET, path=/courses
+[18-May-2026 22:23:35 Europe/Moscow] ✅ Matched GET /courses
+[18-May-2026 22:23:38 Europe/Moscow] 🔍 Routing: method=GET, path=/courses/28/structure
+[18-May-2026 22:23:38 Europe/Moscow] 🔍 Routing: method=GET, path=/lessons/390
+[18-May-2026 22:23:38 Europe/Moscow] 🎯 GET /lessons/390
+[18-May-2026 22:23:38 Europe/Moscow] ✅ Lesson loaded: Введение
+[18-May-2026 22:23:38 Europe/Moscow] 🔍 Routing: method=GET, path=/courses/28/structure
+[18-May-2026 22:23:39 Europe/Moscow] 🔍 Routing: method=GET, path=/lessons/392
+[18-May-2026 22:23:39 Europe/Moscow] 🎯 GET /lessons/392
+[18-May-2026 22:23:39 Europe/Moscow] ✅ Lesson loaded: Видео урок по Python
+[18-May-2026 22:23:39 Europe/Moscow] 🔍 Routing: method=GET, path=/courses/28/structure
+[18-May-2026 22:23:41 Europe/Moscow] 🔍 Routing: method=POST, path=/lessons/392/complete
+[18-May-2026 22:23:41 Europe/Moscow] PHP Warning:  Undefined variable $userCorrectOptions in C:\Users\EvaRiss_\Downloads\Cursor\backend\index.php on line 376
+[18-May-2026 22:23:41 Europe/Moscow] PHP Warning:  Undefined variable $totalCorrectOptions in C:\Users\EvaRiss_\Downloads\Cursor\backend\index.php on line 377
+[18-May-2026 22:23:41 Europe/Moscow] PHP Notice:  ob_end_clean(): Failed to delete buffer. No buffer to delete in C:\Users\EvaRiss_\Downloads\Cursor\backend\index.php on line 382
+[18-May-2026 22:23:41 Europe/Moscow] 🔍 Routing: method=GET, path=/courses/28/structure
+[18-May-2026 22:23:43 Europe/Moscow] 🔍 Routing: method=GET, path=/lessons/391
+[18-May-2026 22:23:43 Europe/Moscow] 🎯 GET /lessons/391
+[18-May-2026 22:23:43 Europe/Moscow] ✅ Lesson loaded: Тест по пройденному материалу
+[18-May-2026 22:23:43 Europe/Moscow] 🔍 Routing: method=GET, path=/courses/28/structure
+[18-May-2026 22:23:46 Europe/Moscow] 🔍 Routing: method=GET, path=/teacher/courses
+[18-May-2026 22:23:46 Europe/Moscow] ✅ Found 1 courses for teacher 15
+[18-May-2026 22:23:46 Europe/Moscow] 🔍 Routing: method=GET, path=/courses/42
+[18-May-2026 22:24:20 Europe/Moscow] 🔍 Routing: method=GET, path=/courses
+[18-May-2026 22:24:20 Europe/Moscow] ✅ Matched GET /courses
+[18-May-2026 22:24:21 Europe/Moscow] 🔍 Routing: method=GET, path=/courses/28
+[18-May-2026 22:24:21 Europe/Moscow] 🔍 Routing: method=GET, path=/user/wishlist
+[18-May-2026 22:24:22 Europe/Moscow] 🔍 Routing: method=POST, path=/courses/28/enroll
+[18-May-2026 22:24:22 Europe/Moscow] 🔍 Routing: method=GET, path=/courses/28/structure
+[18-May-2026 22:24:22 Europe/Moscow] 🔍 Routing: method=GET, path=/lessons/390
+[18-May-2026 22:24:22 Europe/Moscow] 🎯 GET /lessons/390
+[18-May-2026 22:24:22 Europe/Moscow] ✅ Lesson loaded: Введение
+[18-May-2026 22:24:22 Europe/Moscow] 🔍 Routing: method=GET, path=/courses/28/structure
+[18-May-2026 22:24:23 Europe/Moscow] 🔍 Routing: method=GET, path=/lessons/391
+[18-May-2026 22:24:23 Europe/Moscow] 🎯 GET /lessons/391
+[18-May-2026 22:24:23 Europe/Moscow] ✅ Lesson loaded: Тест по пройденному материалу
+[18-May-2026 22:24:23 Europe/Moscow] 🔍 Routing: method=GET, path=/courses/28/structure
+[18-May-2026 22:24:35 Europe/Moscow] 🔍 Routing: method=POST, path=/lessons/391/complete
+[18-May-2026 22:24:35 Europe/Moscow] PHP Notice:  ob_end_clean(): Failed to delete buffer. No buffer to delete in C:\Users\EvaRiss_\Downloads\Cursor\backend\index.php on line 382
+[18-May-2026 22:24:49 Europe/Moscow] 🔍 Routing: method=POST, path=/lessons/391/complete
+[18-May-2026 22:24:49 Europe/Moscow] PHP Notice:  ob_end_clean(): Failed to delete buffer. No buffer to delete in C:\Users\EvaRiss_\Downloads\Cursor\backend\index.php on line 382
+[18-May-2026 22:24:49 Europe/Moscow] 🔍 Routing: method=GET, path=/courses/28/structure
+[18-May-2026 22:24:52 Europe/Moscow] 🔍 Routing: method=GET, path=/lessons/403
+[18-May-2026 22:24:52 Europe/Moscow] 🎯 GET /lessons/403
+[18-May-2026 22:24:52 Europe/Moscow] ✅ Lesson loaded: r;'l,hl'r,h
+[18-May-2026 22:24:52 Europe/Moscow] 🔍 Routing: method=GET, path=/courses/28/structure
+[18-May-2026 22:24:57 Europe/Moscow] 🔍 Routing: method=POST, path=/lessons/403/complete
+[18-May-2026 22:24:58 Europe/Moscow] PHP Warning:  Undefined variable $userCorrectOptions in C:\Users\EvaRiss_\Downloads\Cursor\backend\index.php on line 376
+[18-May-2026 22:24:58 Europe/Moscow] PHP Warning:  Undefined variable $totalCorrectOptions in C:\Users\EvaRiss_\Downloads\Cursor\backend\index.php on line 377
+[18-May-2026 22:24:58 Europe/Moscow] PHP Notice:  ob_end_clean(): Failed to delete buffer. No buffer to delete in C:\Users\EvaRiss_\Downloads\Cursor\backend\index.php on line 382
+[18-May-2026 22:24:58 Europe/Moscow] 🔍 Routing: method=GET, path=/courses/28/structure
+[18-May-2026 22:24:59 Europe/Moscow] 🔍 Routing: method=GET, path=/lessons/398
+[18-May-2026 22:24:59 Europe/Moscow] 🎯 GET /lessons/398
+[18-May-2026 22:24:59 Europe/Moscow] ✅ Lesson loaded: Основные принципы
+[18-May-2026 22:24:59 Europe/Moscow] 🔍 Routing: method=GET, path=/courses/28/structure
+[18-May-2026 22:25:04 Europe/Moscow] 🔍 Routing: method=POST, path=/lessons/398/complete
+[18-May-2026 22:25:04 Europe/Moscow] PHP Warning:  Undefined variable $userCorrectOptions in C:\Users\EvaRiss_\Downloads\Cursor\backend\index.php on line 376
+[18-May-2026 22:25:04 Europe/Moscow] PHP Warning:  Undefined variable $totalCorrectOptions in C:\Users\EvaRiss_\Downloads\Cursor\backend\index.php on line 377
+[18-May-2026 22:25:04 Europe/Moscow] PHP Notice:  ob_end_clean(): Failed to delete buffer. No buffer to delete in C:\Users\EvaRiss_\Downloads\Cursor\backend\index.php on line 382
+[18-May-2026 22:25:04 Europe/Moscow] 🔍 Routing: method=GET, path=/courses/28/structure
+[18-May-2026 22:25:04 Europe/Moscow] 🔍 Routing: method=POST, path=/certificates/issue
+[18-May-2026 22:25:04 Europe/Moscow] PHP Notice:  ob_end_clean(): Failed to delete buffer. No buffer to delete in C:\Users\EvaRiss_\Downloads\Cursor\backend\index.php on line 1479
+[18-May-2026 22:25:08 Europe/Moscow] 🔍 Routing: method=GET, path=/courses
+[18-May-2026 22:25:08 Europe/Moscow] ✅ Matched GET /courses
+[18-May-2026 22:25:12 Europe/Moscow] 🔍 Routing: method=GET, path=/notifications
+[18-May-2026 22:25:12 Europe/Moscow] 🔍 Routing: method=GET, path=/courses
+[18-May-2026 22:25:12 Europe/Moscow] ✅ Matched GET /courses
+[18-May-2026 22:25:12 Europe/Moscow] 🔍 Routing: method=GET, path=/auth/me
+[18-May-2026 22:25:15 Europe/Moscow] 🔍 Routing: method=GET, path=/notifications
+[18-May-2026 22:25:30 Europe/Moscow] 🔍 Routing: method=GET, path=/teacher/courses
+[18-May-2026 22:25:30 Europe/Moscow] ✅ Found 1 courses for teacher 15
+[18-May-2026 22:25:35 Europe/Moscow] 🔍 Routing: method=POST, path=/courses
+[18-May-2026 22:25:35 Europe/Moscow] 🔍 Routing: method=GET, path=/teacher/courses
+[18-May-2026 22:25:35 Europe/Moscow] ✅ Found 2 courses for teacher 15
+[18-May-2026 22:25:36 Europe/Moscow] 🔍 Routing: method=GET, path=/courses/43
+[18-May-2026 22:25:37 Europe/Moscow] 🔍 Routing: method=PUT, path=/courses/43
+[18-May-2026 22:25:38 Europe/Moscow] 🔍 Routing: method=GET, path=/admin/users
+[18-May-2026 22:25:38 Europe/Moscow] 🔍 Routing: method=GET, path=/admin/courses
+[18-May-2026 22:25:38 Europe/Moscow] 🔍 Routing: method=GET, path=/admin/courses/pending
+[18-May-2026 22:25:39 Europe/Moscow] 🔍 Routing: method=PUT, path=/admin/courses/43/status
+[18-May-2026 22:25:41 Europe/Moscow] 🔍 Routing: method=GET, path=/courses
+[18-May-2026 22:25:41 Europe/Moscow] ✅ Matched GET /courses
+[18-May-2026 22:25:43 Europe/Moscow] 🔍 Routing: method=GET, path=/notifications
+[18-May-2026 22:25:49 Europe/Moscow] 🔍 Routing: method=POST, path=/notifications/9/read
+[18-May-2026 22:25:56 Europe/Moscow] 🔍 Routing: method=POST, path=/notifications/8/read
+[18-May-2026 22:26:09 Europe/Moscow] 🔍 Routing: method=GET, path=/teacher/courses
+[18-May-2026 22:26:09 Europe/Moscow] ✅ Found 2 courses for teacher 15
+[18-May-2026 22:26:13 Europe/Moscow] 🔍 Routing: method=GET, path=/notifications
+[18-May-2026 22:26:17 Europe/Moscow] 🔍 Routing: method=GET, path=/user/certificates
+[18-May-2026 22:26:40 Europe/Moscow] 🔍 Routing: method=GET, path=/notifications
+[18-May-2026 22:26:40 Europe/Moscow] 🔍 Routing: method=GET, path=/auth/me
+[18-May-2026 22:26:44 Europe/Moscow] 🔍 Routing: method=GET, path=/notifications
+[18-May-2026 22:26:44 Europe/Moscow] 🔍 Routing: method=GET, path=/auth/me
+[18-May-2026 22:26:44 Europe/Moscow] 🔍 Routing: method=GET, path=/user/certificates
+[18-May-2026 22:26:48 Europe/Moscow] 🔍 Routing: method=GET, path=/courses
+[18-May-2026 22:26:48 Europe/Moscow] ✅ Matched GET /courses
+[18-May-2026 22:27:35 Europe/Moscow] 🔍 Routing: method=POST, path=/auth/login
+[18-May-2026 22:27:36 Europe/Moscow] 🔍 Routing: method=GET, path=/notifications
+[18-May-2026 22:27:36 Europe/Moscow] 🔍 Routing: method=GET, path=/auth/me
+[18-May-2026 22:27:36 Europe/Moscow] 🔍 Routing: method=GET, path=/courses
+[18-May-2026 22:27:36 Europe/Moscow] ✅ Matched GET /courses
+[18-May-2026 22:27:37 Europe/Moscow] 🔍 Routing: method=GET, path=/teacher/courses
+[18-May-2026 22:27:37 Europe/Moscow] ✅ Found 2 courses for teacher 1
+[18-May-2026 22:27:39 Europe/Moscow] 🔍 Routing: method=GET, path=/courses
+[18-May-2026 22:27:39 Europe/Moscow] ✅ Matched GET /courses
+[19-May-2026 21:40:32 Europe/Moscow] 🔍 Routing: method=GET, path=/notifications
+[19-May-2026 21:40:32 Europe/Moscow] 🔍 Routing: method=GET, path=/auth/me
+[19-May-2026 21:40:32 Europe/Moscow] 🔍 Routing: method=GET, path=/courses
+[19-May-2026 21:40:32 Europe/Moscow] ✅ Matched GET /courses
