@@ -1,6 +1,6 @@
-# Stepik Clone (Vue + PHP + MySQL)
+# TeacherPro (Vue + PHP + MySQL)
 
-Учебный клон платформы с ролями:
+Учебная платформы с ролями:
 - `user` (пользователь)
 - `teacher` (преподаватель)
 - `admin` (администратор)
